@@ -1,0 +1,27 @@
+Learning Designer — Coursera
+India | Content & Credentials Operations
+
+About the Role:
+The Learning Designer is a full-time, India-based role responsible for the design and development of Coursera-produced content and for supporting Coursera's APAC partners. This role focuses on learning design, prototyping, experimenting, and ensuring high-quality vendor production through clear standards and constructive review.
+
+Key Responsibilities:
+- Lead learning design for scaled Coursera-produced learning experiences (short- and long-form) with emphasis on modular, skill-aligned design and robust assessment design.
+- Translate SME expertise into vendor-ready design deliverables, including learning outcomes, program outlines, sequenced learning journeys, storyboards, and/or assessment specifications.
+- Leverage replicable design systems, templates, and acceptance criteria to accelerate consistent production across vendors.
+- Collaborate on repackaging efforts: recombine modules and learning assets into new long-form offerings or program structures that align to skill outcomes.
+- Adhere to design standards; provide detailed, actionable feedback and Quality Assurance checks to production vendors and Coursera partners.
+- Contribute to pedagogical R&D and tooling: prototype new learning designs and help develop AI-assisted design/production tools, templates, and prompts.
+
+Basic Qualifications:
+- Bachelor's degree in Instructional Design, Learning Sciences, Education, or a related field.
+- 3-5 years of relevant experience in instructional/learning design, curriculum development, or learning product design.
+- Experience working with SMEs and external production vendors.
+- Demonstrated experience with modular, skill-aligned course design and assessment design.
+- Demonstrated experience using GenAI tools for learning design, content production, or workflow management.
+
+Preferred Qualifications:
+- Master's degree in Education, Learning Sciences, Instructional Design, or a related field
+- Familiarity with Coursera's platform, learning analytics, and data-driven optimization practices
+- Familiarity with authoring and design tools such as Figma, Articulate Storyline, or similar
+- Basic data fluency and familiarity with learning analytics tools (Looker/Tableau); SQL is a plus
+- Experience communicating with external partners (universities, enterprise stakeholders)
