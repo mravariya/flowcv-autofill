@@ -1,0 +1,29 @@
+{
+  "name": "flowcv-autofill",
+  "version": "1.0.0",
+  "description": "Automate FlowCV resume filling with Playwright",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "start:debug": "ts-node src/index.ts --debug",
+    "dev": "tsx src/index.ts",
+    "dev:debug": "tsx src/index.ts --debug"
+  },
+  "keywords": [
+    "flowcv",
+    "automation",
+    "playwright",
+    "resume"
+  ],
+  "author": "mravariya",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.4.0",
+    "playwright": "^1.59.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  }
+}

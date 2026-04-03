@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+*.js
+*.d.ts
+*.js.map
+!jest.config.js
+
+# Tracker
+applications/
+tracker/applications.db
+tracker/.last_sync
+*.enc
+__pycache__/
+*.pyc

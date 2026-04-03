@@ -1,0 +1,67 @@
+{
+  "personalDetails": {
+    "firstName": "Mahesh",
+    "lastName": "Ravariya",
+    "email": "mahesh.g.ravariya@gmail.com",
+    "phone": "",
+    "jobTitle": "",
+    "address": "",
+    "city": "",
+    "country": "",
+    "summary": ""
+  },
+  "education": [
+    {
+      "school": "",
+      "degree": "",
+      "field": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "position": "",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "current": false,
+      "description": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": ""
+    }
+  ],
+  "languages": [
+    {
+      "name": "",
+      "proficiency": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "",
+      "issuer": "",
+      "date": "",
+      "url": ""
+    }
+  ],
+  "links": [
+    {
+      "label": "",
+      "url": ""
+    }
+  ]
+}
